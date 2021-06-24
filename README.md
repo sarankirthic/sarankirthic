@@ -9,8 +9,8 @@
 
 24th June - Thursday 23:26
 Thing I want to learn
-- [] - Systemverilog
-- [] - Cryptography
-- [] - Docker
-- [] - Java
-- [] - PHP
+- Systemverilog
+- Cryptography
+- Docker
+- Java
+- PHP
