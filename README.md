@@ -1,7 +1,16 @@
 # Sarankirthic.SP aka SPSK
 
-- Working On   : Decentralised Web and a terminal based Music player
-- Remastering  : Python
-- Need help    : Cicada 3301
-- How to reach me: U cant reach me, unless I want you to.
-- Fun fact: I am everywhere and nowhere.
+- Learning        : Cryptography, Systemverilog, 
+- Working On      : RISCV 64GC pipelined core with out of order execution and privilege levels
+- Remastering     : My Own strengths and weaknesses 
+- Need help       : Cicada 3301
+- How to reach me : U can't reach me, unless I want you to.
+- Fun riddle      : I am everywhere and nowhere, who am I.
+
+24th June - Thursday 23:26
+Thing I want to learn
+- [] - Systemverilog
+- [] - Cryptography
+- [] - Docker
+- [] - Java
+- [] - PHP
