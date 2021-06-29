@@ -14,3 +14,5 @@ Thing I want to learn
 - Docker
 - Java
 - PHP
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarankirthic&show_icons=true&theme=radical">
