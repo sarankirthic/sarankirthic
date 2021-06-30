@@ -7,7 +7,7 @@
 - How to reach me : U can't reach me, unless I want you to.
 - Fun riddle      : I am everywhere and nowhere, who am I.
 
-30th June - Thursday 23:26
+30th June
 Languages and concepts learning ryt now
 - Systemverilog
 - Cryptography
