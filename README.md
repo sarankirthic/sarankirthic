@@ -1,6 +1,6 @@
 # Sarankirthic alias Mr.P1630N
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankirthic&layout=compact">
+<a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="400" alt="Sarankirthic SP's Dev Card"/></a>
 
 - Learning        : Java, Blockchain, 
 - Working On      : Taking some time off, to take care of my health.
@@ -9,9 +9,6 @@
 - Need help       : Cicada 3301
 
 # 15th September
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sarankirthic&show_icons=true&theme=radical">
-
 ## Languages/projects learning/working on
 - [x] [Systemverilog](https://github.com/systemverilogNotes)
 - [x] [Cryptography](https://github.com/sarankirthic)
@@ -25,5 +22,10 @@
 - [ ] [Battery Manament System - 18650 Li-ion cells](https://github.com/sarankirthic/18650)
 - [ ] Build a cluster board for the compute module 3.
 
-## How to Reach Me
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankirthic&layout=compact"></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=sarankirthic&show_icons=true&theme=radical"></span>
+
+# - - - - 
+
+# How to Reach Me
 U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. I have a special repo which contains all the information to contact me. Just find that [file](https://github.com/sarankirthic/contact_Me).
