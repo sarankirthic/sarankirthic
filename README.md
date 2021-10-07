@@ -21,11 +21,10 @@
 - [ ] [Raspberry Pi Clustering](https://github.com/sarankirthic/Pi_Cluster)
 - [ ] [Battery Manament System - 18650 Li-ion cells](https://github.com/sarankirthic/18650)
 - [ ] Build a cluster board for the compute module 3.
-
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankirthic&layout=compact"></span>
-<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=sarankirthic&show_icons=true&theme=radical"></span>
-
-# - - - - 
+<div>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankirthic&layout=compact" style="width:45%;height:45%;"></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=sarankirthic&show_icons=true&theme=radical" style="width:52%;height:52%;"></span>
+</div>
 
 # How to Reach Me
 U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. I have a special repo which contains all the information to contact me. Just find that [file](https://github.com/sarankirthic/contact_Me).
