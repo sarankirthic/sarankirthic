@@ -1,12 +1,13 @@
 # Sarankirthic alias Mr.P1630N
+## btw ... I use ARCH
 
 - Learning        : Penetration testing
 - Working On      : IOT, Blockchain, Web developement, 
-- Research        : Arch Linux
+- Research        : 
 - Remastering     : My Own strength and weakness
 - Need help with  : I dont need your
 
-# 7th January, 2022
+# As of 13th January, 2022
 ## Projects working on
 - [ ] [Machine Learning](google.com) <a><img align="right" src="https://progress-bar.dev/1" alt="Progress bar"></a>
 - [ ] [A secret project](https://www.thesecret.tv) <a><img align="right" src="https://progress-bar.dev/5" alt="Progress bar"></a>
