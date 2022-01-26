@@ -1,6 +1,6 @@
 # Sarankirthic alias Mr.P1630N
 ## btw ... I use ARCH
-<a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="39%" alt="Sarankirthic SP's Dev Card"/></a>
+<a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="35%" alt="Sarankirthic SP's Dev Card"/></a>
 
 - [ ] Learning        : Penetration testing, Java, Machine Learning
 - [ ] Working On      : IOT, Blockchain, Web developement
