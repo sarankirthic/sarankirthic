@@ -20,7 +20,7 @@
 ![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-%557C94?&style=flat&color=23A3CF&logo=kalilinux&logoColor=white)
 ![Mac OS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-%A22846?&style=flat&color=D60031&logo=raspberrypi&logoColor=white)
-[![My Discord](https://img.shields.io/badge/DISCORD-%5865F2?&style=flat&color=5865F2&logo=discord&logoColor=white)](749858169009864766)
+[![My Discord](https://img.shields.io/badge/DISCORD-%5865F2?&style=flat&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/749858169009864766)
 
 
 <a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="35%" alt="Sarankirthic SP's Dev Card"/></a>
