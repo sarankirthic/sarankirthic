@@ -1,38 +1,21 @@
-# Sarankirthic alias Mr.P1630N
-### **btw ... I use ARCH**
+Hi! Welcome to my Github. I am Sarankirthic SP and I am an engineer interested in designing efficient backend systems, building scalable web applications, and exploring the possibilities of modern software engineering. I enjoy transforming ideas into practical solutions through clean code, structured design, and strong fundamentals. My passion lies in blending engineering logic with creativity to solve problems and make technology more accessible.  
 
-## I know
-![C](https://img.shields.io/badge/C-007396?&style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-007396?&style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-%3776AB?&style=flat&color=2d618c&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-C71A36?&style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?&style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC?&style=flat&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033?&style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011?&style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/MARKDOWN-%4EAA25?&style=flat&color=black&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?&style=flat&logo=docker&logoColor=white)
-![Djagno](https://img.shields.io/badge/DJANGO-%092E20?&style=flat&color=092E20&logo=django&logoColor=white)
-![Ansible](https://img.shields.io/badge/ANSIBLE-%EE0000?&style=flat&color=f00&logo=ansible&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/ARCH%20LINUX-%1793D1?&style=flat&color=08c&logo=archlinux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-%557C94?&style=flat&color=23A3CF&logo=kalilinux&logoColor=white)
-![Mac OS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
-![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-%A22846?&style=flat&color=D60031&logo=raspberrypi&logoColor=white)
-[![My Discord](https://img.shields.io/badge/DISCORD-%5865F2?&style=flat&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/749858169009864766)
+My technical expertise covers a diverse range of tools and frameworks. I work with **Java**, **Spring Boot**, and **Python** to build backend systems, using **Flask** for lighter web services when needed. For data management, I rely on relational databases like **MySQL** and **PostgreSQL**, along with non-relational options such as **MongoDB**. To ensure scalability and reliability, I incorporate **Docker**, **Maven**, and industry-standard development practices, focusing on security, performance, and maintainability throughout.  
 
+Beyond development, my interests extend to exploring **system design**, **cloud-native applications**, and **privacy-focused technologies**. I enjoy working on projects that blend these skills to deliver enterprise-grade solutions while continuing to learn and adapt to modern trends in the software ecosystem. This GitHub showcases my journey through backend engineering, database management, and system deployment, representing my commitment to solving complex challenges with clarity and precision.  
 
-<a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="35%" alt="Sarankirthic SP's Dev Card"/></a>
+### Current Focus Areas  
+- Microservices architecture and API development  
+- Automation of system deployment and continuous integration/continuous delivery (CI/CD)  
+- Enhancing application security and data privacy  
+- Cloud-native solutions and container orchestration with Docker and Kubernetes  
 
-## About Me
-- Learning        : Penetration testing, Java, Machine Learning, Typescript, Docker
-- Working On      : IOT, Blockchain, Web developement
-- Research        : Phishing, SQL Injection
-- Remastering     : My Own strength and weakness
-- Need Help with  : Decentralization
+If there is anything specific you want to see or collaborate on, feel free to connect!
 
-# How to Reach Me
-U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. Just find the flag in this [file](https://github.com/sarankirthic/tcatnoC_eM).
-
-![github stats](https://github-stats-alpha.vercel.app/api/?username=sarankirthic&tc=333&ic=333)
+<!--
+U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. Just find the flag [here](https://github.com/sarankirthic/tcatnoC_eM).
+[Twitter](https://twitter.com/spsk69)
+[LinkedIn](https://www.linkedin.com/in/saran-kirthic-sp-8b131b214)
+[Spotify](https://open.spotify.com/user/sdkdsbow4y35oij863k8j5mui?si=9f4e2bb885a748ae)
+[]()
+-->
