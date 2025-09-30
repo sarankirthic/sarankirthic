@@ -1,24 +1,21 @@
-# Sarankirthic alias Mr.P1630N
-## btw ... I use ARCH
+Hi! Welcome to my Github. I am Sarankirthic SP and I am an engineer interested in designing efficient backend systems, building scalable web applications, and exploring the possibilities of modern software engineering. I enjoy transforming ideas into practical solutions through clean code, structured design, and strong fundamentals. My passion lies in blending engineering logic with creativity to solve problems and make technology more accessible.  
 
-- Learning        : Penetration testing
-- Working On      : IOT, Blockchain, Web developement, 
-- Research        : 
-- Remastering     : My Own strength and weakness
-- Need help with  : I dont need your
+My technical expertise covers a diverse range of tools and frameworks. I work with **Java**, **Spring Boot**, and **Python** to build backend systems, using **Flask** for lighter web services when needed. For data management, I rely on relational databases like **MySQL** and **PostgreSQL**, along with non-relational options such as **MongoDB**. To ensure scalability and reliability, I incorporate **Docker**, **Maven**, and industry-standard development practices, focusing on security, performance, and maintainability throughout.  
 
-# As of 13th January, 2022
-## Projects working on
-- [ ] [Machine Learning](google.com) <a><img align="right" src="https://progress-bar.dev/1" alt="Progress bar"></a>
-- [ ] [A secret project](https://www.thesecret.tv) <a><img align="right" src="https://progress-bar.dev/5" alt="Progress bar"></a>
+Beyond development, my interests extend to exploring **system design**, **cloud-native applications**, and **privacy-focused technologies**. I enjoy working on projects that blend these skills to deliver enterprise-grade solutions while continuing to learn and adapt to modern trends in the software ecosystem. This GitHub showcases my journey through backend engineering, database management, and system deployment, representing my commitment to solving complex challenges with clarity and precision.  
 
-## Long Run Projects
-- [ ] [Torrent based music player](https://github.com/sarankirthic/) <a><img align="right" src="https://progress-bar.dev/10" alt="Progress bar"></a>
-- [ ] [Raspberry Pi Clustering](https://github.com/sarankirthic/Pi_Cluster) <a><img align="right" src="https://progress-bar.dev/50" alt="Progress bar"></a>
-- [ ] [Battery Manament System - 18650 Li-ion cells](https://github.com/sarankirthic/18650) <a><img align="right" src="https://progress-bar.dev/10" alt="Progress bar"></a>
-- [ ] Build a cluster board for the compute module 3. <a><img align="right" src="https://progress-bar.dev/0" alt="Progress bar"></a>
+### Current Focus Areas  
+- Microservices architecture and API development  
+- Automation of system deployment and continuous integration/continuous delivery (CI/CD)  
+- Enhancing application security and data privacy  
+- Cloud-native solutions and container orchestration with Docker and Kubernetes  
 
-# How to Reach Me
-<a href="https://app.daily.dev/Mr_P1630n"><img align="right" src="https://api.daily.dev/devcards/d71e972606f24f5b984d450fe901dfd1.png?r=go3" width="40%" alt="Sarankirthic SP's Dev Card"/></a>
-U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. Just find the flag in this [file](https://github.com/sarankirthic/tcatnoC_eM).
+If there is anything specific you want to see or collaborate on, feel free to connect!
 
+<!--
+U can't reach me, unless I want you to. That sounds sus. Just kidding. If you want to talk to me you will have to solve a very simple puzzle. Just find the flag [here](https://github.com/sarankirthic/tcatnoC_eM).
+[Twitter](https://twitter.com/spsk69)
+[LinkedIn](https://www.linkedin.com/in/saran-kirthic-sp-8b131b214)
+[Spotify](https://open.spotify.com/user/sdkdsbow4y35oij863k8j5mui?si=9f4e2bb885a748ae)
+[]()
+-->
